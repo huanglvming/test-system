@@ -1,0 +1,52 @@
+{
+	"arr":[{
+		"title":"你最喜欢的水果是什么？",
+		"choice":[
+			"apple",
+			"banana",
+			"orange"
+		],
+		"answer": "0",
+		"name": "apple"
+	},
+	{
+		"title":"你最喜欢的水果是什么？",
+		"choice":[
+			"apple",
+			"banana",
+			"orange"
+		],
+		"answer": "1",
+		"name": "banana"
+	},
+	{
+		"title":"你最喜欢的水果是什么？",
+		"choice":[
+			"apple",
+			"banana",
+			"orange"
+		],
+		"answer": "2",
+		"name": "blueberry"
+	},
+	{
+		"title":"你最喜欢的水果是什么？",
+		"choice":[
+			"apple",
+			"banana",
+			"orange"
+		],
+		"answer": "2",
+		"name": "pinaple"
+	},
+	{
+		"title":"你最喜欢的水果是什么？",
+		"choice":[
+			"apple",
+			"banana",
+			"orange"
+		],
+		"answer": "1",
+		"name": "watermallon"
+	}]
+}
